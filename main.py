@@ -20,7 +20,7 @@ food = Food()
 
 #-----add AI------#
 
-ai = AI(food)
+#ai = AI(food)
 
 #-----add AI------#
 
@@ -48,8 +48,8 @@ while game_on:
     snake.move()
     
     #-----add AI------#
-    ai.move()
-    ai.ai_move()
+    #ai.move()
+    #ai.ai_move()
     #-----add AI------#
     
     #Detect Collision with food.
