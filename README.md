@@ -10,7 +10,7 @@
 - ```
     #-----add AI------#
     
-    `ai = AI(food)`
+    ai = AI(food)
     
     #-----add AI------#
   ```
