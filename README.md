@@ -16,8 +16,8 @@
   ```
 - ```
    #-----add AI------#
-    `ai.move()`
-    `ai.ai_move()`
+    ai.move()
+    ai.ai_move()
     #-----add AI------#
   ```
   
