@@ -10,14 +10,14 @@
 - ```
     #-----add AI------#
     
-    ai = AI(food)
+    `ai = AI(food)`
     
     #-----add AI------#
   ```
 - ```
    #-----add AI------#
-    ai.move()
-    ai.ai_move()
+    `ai.move()`
+    `ai.ai_move()`
     #-----add AI------#
   ```
   
