@@ -22,6 +22,11 @@
   ```
   
 - Don't use the AI unless you wanna get bullied.
+
+## Installation
+
+- Install and run the game with just a single command!!
+- ```git clone https://github.com/Bravo-ZR/The-Snake-Game/ && cd The-Snake_Game && python main.py```
 ## How to play
 - Use up,down,left,right to control the snake, you can't go opposite directions.
 ## Fix
